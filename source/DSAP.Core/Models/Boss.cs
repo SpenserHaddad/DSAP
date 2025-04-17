@@ -6,11 +6,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DSAP.Models
+namespace DSAP.Core.Models
 {
     public class Boss
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
         [JsonConverter(typeof(HexToUIntConverter))]
         public uint Offset { get; set; }
         public int AddressBit { get; set; }

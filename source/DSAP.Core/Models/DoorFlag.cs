@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DSAP.Models
+namespace DSAP.Core.Models
 {
-    public class BossFlag : EventFlag
+    public class DoorFlag : EventFlag
     {
     }
 }

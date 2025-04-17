@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DSAP.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "ap.remyjette.com SpenserHollow"
+    }
+  }
+}

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DSAP.Models
+namespace DSAP.Core.Models
 {
     public class LastBonfire
     {
-        public int id { get; set; }
-        public string name { get; set; }
+        public int Id { get; set; }
+        public string? Name { get; set; }
     }
 }

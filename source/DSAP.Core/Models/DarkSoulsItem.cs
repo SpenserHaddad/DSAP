@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
-using static DSAP.Enums;
+using static DSAP.Core.Enums;
 
-namespace DSAP.Models
+namespace DSAP.Core.Models
 {
     public class DarkSoulsItem
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public int Id { get; set; }
         public int StackSize { get; set; }
         [JsonConverter(typeof(StringEnumConverter))]

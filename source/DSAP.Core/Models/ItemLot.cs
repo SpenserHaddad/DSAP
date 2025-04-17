@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DSAP.Models
+namespace DSAP.Core.Models
 {
     public class ItemLot
     {
-        public List<ItemLotItem> Items { get; set; }
+        public List<ItemLotItem>? Items { get; set; }
         public int GetItemFlagId { get; set; }
         public int CumulateNumFlagId { get; set; }
         public byte CumulateNumMax { get; set; }

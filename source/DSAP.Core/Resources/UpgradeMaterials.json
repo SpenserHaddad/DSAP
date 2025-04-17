@@ -1,0 +1,194 @@
+﻿[
+  {
+    "Name": "Large Ember",
+    "Id": 800,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115000
+  },
+  {
+    "Name": "Very Large Ember",
+    "Id": 801,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115001
+  },
+  {
+    "Name": "Crystal Ember",
+    "Id": 802,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115002
+  },
+  {
+    "Name": "Large Magic Ember",
+    "Id": 806,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115003
+  },
+  {
+    "Name": "Enchanted Ember",
+    "Id": 807,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115004
+  },
+  {
+    "Name": "Divine Ember",
+    "Id": 808,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115005
+  },
+  {
+    "Name": "Large Divine Ember",
+    "Id": 809,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115006
+  },
+  {
+    "Name": "Dark Ember",
+    "Id": 810,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115007
+  },
+  {
+    "Name": "Large Flame Ember",
+    "Id": 812,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115008
+  },
+  {
+    "Name": "Chaos Flame Ember",
+    "Id": 813,
+    "StackLimit": 1,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115009
+  },
+  {
+    "Name": "Titanite Shard",
+    "Id": 1000,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115010
+  },
+  {
+    "Name": "Large Titanite Shard",
+    "Id": 1010,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115011
+  },
+  {
+    "Name": "Green Titanite Shard",
+    "Id": 1020,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115012
+  },
+  {
+    "Name": "Titanite Chunk",
+    "Id": 1030,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115013
+  },
+  {
+    "Name": "Blue Titanite Chunk",
+    "Id": 1040,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115014
+  },
+  {
+    "Name": "White Titanite Chunk",
+    "Id": 1050,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115015
+  },
+  {
+    "Name": "Red Titanite Chunk",
+    "Id": 1060,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115016
+  },
+  {
+    "Name": "Titanite Slab",
+    "Id": 1070,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115017
+  },
+  {
+    "Name": "Blue Titanite Slab",
+    "Id": 1080,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115018
+  },
+  {
+    "Name": "White Titanite Slab",
+    "Id": 1090,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115019
+  },
+  {
+    "Name": "Red Titanite Slab",
+    "Id": 1100,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115020
+  },
+  {
+    "Name": "Dragon Scale",
+    "Id": 1110,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115021
+  },
+  {
+    "Name": "Demon Titanite",
+    "Id": 1120,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115022
+  },
+  {
+    "Name": "Twinkling Titanite",
+    "Id": 1130,
+    "StackLimit": 99,
+    "UpgradeType": "None",
+    "Category": "UpgradeMaterials",
+    "ApId": 11115023
+  }
+]

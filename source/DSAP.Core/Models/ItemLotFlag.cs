@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DSAP.Models
+namespace DSAP.Core.Models
 {
-    public class FogWallFlag : EventFlag
+    public class ItemLotFlag : EventFlag
     {
+        public bool IsEnabled { get; set; } = true;
     }
 }
